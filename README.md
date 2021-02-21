@@ -18,5 +18,5 @@ Steps to install the app in your mobile:
 How to Test the App after installation:
 1. Open The App
 2. Click Next button for new meme
-3. CLick Share button for sharing the meme with your friends
+3. Click Share button for sharing the meme with your friends
 
