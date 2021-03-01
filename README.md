@@ -1,6 +1,6 @@
 # MemeShare
-## This is my second android application.
-## The application is a meme sharing app.
+#### This is my second android application.
+#### The application is a meme sharing app.
 
 
 # Steps to install the app in your mobile:
