@@ -2,9 +2,6 @@
 #### This is my second android application.
 #### The application is a meme sharing app.
 
-## Look
-![Meme App Blue-Print](https://user-images.githubusercontent.com/70829126/109472091-b3cae100-7a97-11eb-88a5-7115ecb3885d.png)
-
 
 # Steps to install the app in your mobile:
 1. Fork the repository.
